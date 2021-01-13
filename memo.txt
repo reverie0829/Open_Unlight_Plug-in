@@ -1,0 +1,3 @@
+apt-cache search opencv
+sudo apt install libopencv3.2-java
+sudo ln -s /usr/lib/jni/libopencv_java320.so /usr/lib/libopencv_java.so
